@@ -35,11 +35,11 @@ Regards, Matt
 Response 2:
 Hi Matt,
 
-I'm sorry to hear that you're encountering some inconvenience with the dashboard and your feedback is much appreciated! This new design, specifically the update to clearing and deleting indexes, is to ensure the protection of your indices and all your work. At Algolia, we want to make sure that customer's don't accidentally clear or delete their indices and lose all the settings they've been working on with just one click. 
+I'm sorry to hear that you're encountering some inconvenience with the dashboard and your feedback is much appreciated. This new design, specifically the update to clearing and deleting indexes, is to ensure the protection of your indices and all your work. At Algolia, we want to make sure that customer's don't accidentally clear or delete their indices and lose all the settings they've been working on with just one click. 
 
 We value your opinion and here at Algolia we are always looking for ways to create a better experience for our customers! I will take your feedback to our product teams for consideration as we work to expand and improve.
 
-Please let me know if you have any questions or additional feedback!
+If you have any questions or additional feedback, feel free to email or call me at 650-636-5209.
 
 Best,
 Carolina
