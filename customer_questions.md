@@ -11,7 +11,7 @@ Cheers, George
 Response 1:
 Hi George,
 
-Of course, I'm happy to provide some context on the concepts you inluded and help in your onboarding and search engine knowledge! 
+Of course, I'm happy to provide some context on the concepts you included and help in your onboarding and search engine knowledge! 
 
 Here are some definitions and additional information:
 
