@@ -53,14 +53,16 @@ Regards, Leo
 Response 3:
 Hi Leo,
 
-Great question, happy to detail out the process for you with some quick bullet points:
+Great question, from previous experience with customers, this process is not a heavy lift for our customer's teams and we are always hear to assist and lessen the lift from your end.
+
+Happy to detail out the process for you with some quick bullet points:
 
 1. Prepare your data and send it to Algolia
 2. Configure your data setting and attributes for Algolia to understand your data better and build the most optimized search possible
 3. Add your new search to your company's UI or build one using our step by step guides
 4. Go live with your search and let your users reap the benefits!
 
-From previous experience with customers, this process is not a heavy lift for our customer's teams and we are always hear to assist and lessen the lift from your end, so please feel free to reach out with any questions that may come up along the way! 
+Please feel free to reach out with any questions that may come up along the way! 
 
 Best,
 Carolina
